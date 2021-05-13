@@ -1,0 +1,44 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.bord {
+    border-style: solid;
+    border-color: purple;
+}
+
+.head {
+    background-image: linear-gradient(to bottom, #ffb1eb, #de8fd0, #bc6eb7, #9a4e9f, #782f87, #773088, #77318a, #76328b, #9853a6, #ba74c2, #dc96de, #ffb9fc);
+    color: white;
+    text-align: center;
+}
+
+th {
+    background-color: pink;
+}
+
+.con {
+    background-image: linear-gradient(to bottom, #ffb1eb, #f18ee8, #dc6be8, #be49ec, #9527f3, #922bf5, #902ef7, #8d31f9, #b652f7, #d574f6, #ed96f8, #ffb9fc);
+}
+
+.dis {
+    background-image: linear-gradient(to bottom, #ffb1eb, #f18ee8, #dc6be8, #be49ec, #9527f3, #922bf5, #902ef7, #8d31f9, #b652f7, #d574f6, #ed96f8, #ffb9fc);
+}
+
+.pub {
+    background-image: linear-gradient(to bottom, #b1d3ff, #83b7ff, #579aff, #2a7bff, #0059ff, #005dff, #0060ff, #0064ff, #008aff, #3aabff, #7cc9ff, #b9e4ff);
+}
+
+.sub {
+    background-image: linear-gradient(to bottom, #fbd1ff, #ffafce, #fe968f, #da8a4d, #9c8810, #9d8917, #9f8b1d, #a08c22, #dc945e, #fba7a1, #ffc6db, #fce9ff);
+}
